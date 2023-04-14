@@ -5,3 +5,8 @@ function myFirstFunction() {
 function secondFunction() {
 	return "a";
 }
+
+
+function thirdFunction() {
+	return "b";
+}
