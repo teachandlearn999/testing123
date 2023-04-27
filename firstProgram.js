@@ -5,3 +5,7 @@ function myFirstFunction() {
 function secondFunction() {
 	return "a";
 }
+
+function thirdFunction() {
+	console.log("My JS Project");
+}
