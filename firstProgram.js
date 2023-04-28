@@ -9,3 +9,7 @@ function secondFunction() {
 function thirdFunction() {
 	console.log("My JS Project");
 }
+
+function forthFunction() {
+	console.log("My branch");
+}
